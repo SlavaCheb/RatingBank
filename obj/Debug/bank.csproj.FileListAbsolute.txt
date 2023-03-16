@@ -1,0 +1,40 @@
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\bin\Debug\bank.exe.config
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\bin\Debug\bank.exe
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\bin\Debug\bank.pdb
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.MainForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.InputForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.RegistrationForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.exe
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.pdb
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.CriteriaForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.IndicatorsForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.CreateForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.ExpertForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.ActivityForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.BanksForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank\bank\obj\Debug\bank.RatingForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Debug\banking_activities.mdf
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Debug\banking_activities_log.ldf
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Debug\bank.exe.config
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Debug\bank.exe
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Debug\bank.pdb
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.csprojAssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.ActivityForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.BanksForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.CriteriaForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.ExpertForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.IndicatorsForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.CreateForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.MainForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.InputForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.RatingForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.RegistrationForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.exe
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Debug\bank.pdb

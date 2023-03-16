@@ -1,0 +1,42 @@
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Release\banking_activities.mdf
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Release\banking_activities_log.ldf
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Release\bank.exe.config
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Release\bank.exe
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\bin\Release\bank.pdb
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.csprojAssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.ActivityForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.BanksForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.CriteriaForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.ExpertForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.IndicatorsForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.CreateForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.MainForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.InputForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.Properties.Resources.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.RatingForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.RegistrationForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.exe
+C:\Users\slava\OneDrive\Рабочий стол\ИТППР\bank — копия\bank\obj\Release\bank.pdb
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\bin\Release\banking_activities.mdf
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\bin\Release\banking_activities_log.ldf
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\bin\Release\bank.exe.config
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\bin\Release\bank.exe
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\bin\Release\bank.pdb
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.csproj.AssemblyReference.cache
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.ActivityForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.BanksForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.CriteriaForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.ExpertForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.IndicatorsForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.CreateForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.MainForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.InputForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.Properties.Resources.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.RatingForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.RegistrationForm.resources
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.csproj.GenerateResource.cache
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.csproj.CoreCompileInputs.cache
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.exe
+C:\Users\slava\OneDrive\Рабочий стол\Лабы\6-й семестр\ИТППР\bank — копия\bank\obj\Release\bank.pdb
